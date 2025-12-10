@@ -131,12 +131,12 @@ Analyze (Metrics & Summary Reports)
    git clone <repo-url>
 
 2. Install dependencies
-
+   ```bash
 pip install -r requirements.txt
 
 
 3. Configure .env
-
+```bash
 SUPABASE_URL=your_url
 SUPABASE_KEY=your_key
 
