@@ -132,13 +132,13 @@ Analyze (Metrics & Summary Reports)
 
 2. Install dependencies
    ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 
 3. Configure .env
-```bash
-SUPABASE_URL=your_url
-SUPABASE_KEY=your_key
+  ```bash
+  SUPABASE_URL=your_url
+  SUPABASE_KEY=your_key
 
 
 4. Run ETL
