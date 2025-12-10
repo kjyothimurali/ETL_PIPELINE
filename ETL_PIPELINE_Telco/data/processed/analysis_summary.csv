@@ -1,0 +1,12 @@
+metric,value
+churn_percentage,25.6
+avg_monthlycharges_Month-to-month,67.29799635701275
+avg_monthlycharges_One year,68.18406862745098
+avg_monthlycharges_Two year,63.26983805668016
+tenure_group_New_count,321.0
+tenure_group_Regular_count,268.0
+tenure_group_Champion_count,209.0
+tenure_group_Loyal_count,202.0
+internet_Fiber optic_count,468.0
+internet_DSL_count,329.0
+internet_No_count,203.0
